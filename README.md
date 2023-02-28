@@ -41,25 +41,19 @@ You have finally found my Github profile. <br>
 
 ## 🚀 Languages and Tools ...
 ### Frontend
-<div align="center">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code>  
 <code><a href="https://github.com/vckindarkhediya/LearningJquery/tree/j-query"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></a></code>
 
-</div>
 ### Backend
-<div align="center">
 <code><a href="https://github.com/vckindarkhediya/Learningphp/tree/php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/></a></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" height="50" width="50" title="Laravel" ></code>
 <code><a href="https://github.com/vckindarkhediya/LearningMysql/tree/mysql"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/></a></code>
 <code><a href="https://github.com/vckindarkhediya/LearningMongodb/tree/mongodb"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="50" height="50"/></a></code>
-</div>
 
 ### DevOps
-<div align="center">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
   
-</div>
 ## 📈 Git Stats ...
 
   <div align="center">
