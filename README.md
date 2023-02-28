@@ -43,7 +43,7 @@ You have finally found my Github profile. <br>
 
 - 🌐 HTML | CSS | jQuery | PHP
 - 🖥️ Laravel
-- 🛢 MySQL | MongoDB |
+- 🛢 MySQL | mongoDB |
 - 🔧 Visual Studio Code | Github
 
 ## 🚀 Languages and Tools ...
