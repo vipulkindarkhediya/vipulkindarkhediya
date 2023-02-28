@@ -42,8 +42,7 @@ You have finally found my Github profile. <br>
 ## 🚀 Languages and Tools ...
 ### Frontend
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code>  
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></code>
 
 ### Backend
 <code><a href="https://github.com/vckindarkhediya/Learningphp/tree/php"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/></a></code>
@@ -53,6 +52,7 @@ You have finally found my Github profile. <br>
 
 ### DevOps
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
   
 ## 📈 Git Stats ...
 
