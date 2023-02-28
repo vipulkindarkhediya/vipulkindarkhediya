@@ -41,10 +41,22 @@ You have finally found my Github profile. <br>
 
 ## 🛠 Tech Stack
 
-- 🌐 HTML | CSS | jQuery | PHP
-- 🖥️ Laravel
-- 🛢 MySQL | mongoDB |
-- 🔧 Visual Studio Code | Github
+Front-end 
+- HTML
+- CSS 
+- jQuery
+  
+Back-end
+- PHP
+- MySQL
+- mongoDB 
+ 
+Back-end Framwarks
+- Laravel
+  
+DevOps
+- Git
+- GitHub
 
 ## 🚀 Languages and Tools ...
 
