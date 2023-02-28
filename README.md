@@ -39,8 +39,8 @@ You have finally found my Github profile. <br>
 
 - 📫 How to reach me: <a href="mailto:vipulkindarkhediya1204@gmail.com"> <b>vipulkindarkhediya1204@gmail.com </b></a>
 
-<div align="center">
 ## 🚀 Languages and Tools ...
+<div align="center">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code>  
 <code><a href="https://github.com/vckindarkhediya/LearningJquery/tree/j-query"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></a></code>
