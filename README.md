@@ -10,9 +10,6 @@
   <a href="https://www.instagram.com/vc.kindarkhediya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100089949522625">
-    <img src="https://img.shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-  </a>
   <a href="https://twitter.com/vipul_ck">
     <img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a><br>
