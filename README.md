@@ -20,7 +20,7 @@
 <div>
 <br>
    <a href="https://github.com/vckindarkhediya">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=1FC600&center=true&vCenter=true&lines=Hi%2C+I%27m+Vipul;Web+Developer" alt="vckindarkhediya" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=1FC600&center=true&vCenter=true&lines=Hi%2C+I%27m+Javascript & Typescriptmaster;Web+Developer" alt="vckindarkhediya" /></a>
 </h1>
 <div align="center">
 
