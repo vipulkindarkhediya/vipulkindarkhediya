@@ -13,8 +13,8 @@
   <a href="https://twitter.com/js_ts_master">
     <img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a><br>
-    <img src="https://komarev.com/ghpvc/?username=vckindarkhediya&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/vckindarkhediya.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://komarev.com/ghpvc/?username=jstsmaster&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/jstsmaster.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
