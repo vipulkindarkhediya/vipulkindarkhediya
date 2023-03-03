@@ -7,10 +7,10 @@
   <a href="mailto:vipulkindarkhediya1204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://www.instagram.com/vc.kindarkhediya/">
+  <a href="https://www.instagram.com/js_ts_master/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/vipul_ck">
+  <a href="https://twitter.com/js_ts_master">
     <img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a><br>
     <img src="https://komarev.com/ghpvc/?username=vckindarkhediya&style=for-the-badge">
