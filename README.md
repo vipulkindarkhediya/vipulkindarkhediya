@@ -10,17 +10,15 @@
   <a href="https://www.instagram.com/js_ts_master/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/js_ts_master">
-    <img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a><br>
-    <img src="https://komarev.com/ghpvc/?username=jstsmaster&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/jstsmaster.svg?style=for-the-badge&logo=appveyor">
+ <br>
+    <img src="https://komarev.com/ghpvc/?username=vckindarkhediya&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/vckindarkhediyar.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
 <br>
    <a href="https://github.com/vckindarkhediya">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=1FC600&center=true&vCenter=true&lines=Hi%2C+I%27m+JsTsmaster;Web+Developer" alt="master" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=1FC600&center=true&vCenter=true&lines=Hi%2C+I%27m+Vipul;Web+Developer" alt="master" /></a>
 </h1>
 <div align="center">
 
@@ -32,7 +30,7 @@ You have finally found my Github profile. <br>
 
 ## 🙋‍ About Me
 
-- 🎓 Studying Bachelors's in Computer Application at <a href="https://jmpaneracollege.co.in/"> <b>J.M. Panera Arts, Commerce & Computer Science College Manavadar</b></a>
+- 🎓 Studying Bachelors's in Computer Application at (J.M. Panera Arts, Commerce & Computer Science College Manavadar)[https://jmpaneracollege.co.in/"] 
 
 - 📫 How to reach me: <a href="mailto:vipulkindarkhediya1204@gmail.com"> <b>vipulkindarkhediya1204@gmail.com </b></a>
 
