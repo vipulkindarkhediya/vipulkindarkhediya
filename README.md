@@ -57,19 +57,19 @@ You have finally found my Github profile. <br>
   <div align="center">
   <a href="https://github.com/vckindarkhediya">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jstsmaster&show_icons=true&locale=en"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vckindarkhediya&show_icons=true&locale=en"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jstsmaster&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vckindarkhediya&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
 </div>
     <br/> <br/>
    <div align="center">
   <a href="https://github.com/vckindarkhediya">
   
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jstsmaster"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vckindarkhediya"/>
   
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=jstsmaster&bc=ebebeb&ic=0E8AD9"/> 
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=vckindarkhediya&bc=ebebeb&ic=0E8AD9"/> 
 </div>
          <br/> <br/>
      <p align="center">
-    <img width="450" src="https://github-profile-trophy.vercel.app/?username=jstsmaster&theme=monokai&row=2&column=3" alt="jstsmaster" />
+    <img width="450" src="https://github-profile-trophy.vercel.app/?username=vckindarkhediya&theme=monokai&row=2&column=3" alt="jstsmaster" />
   </p>
