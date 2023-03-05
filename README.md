@@ -7,7 +7,7 @@
   <a href="mailto:vipulkindarkhediya1204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://www.instagram.com/js_ts_master/">
+  <a href="https://www.instagram.com/vipul_kindarkhediya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
  <br>
@@ -30,7 +30,7 @@ You have finally found my Github profile. <br>
 
 ## 🙋‍ About Me
 
-- 🎓 Studying Bachelors's in Computer Application at (J.M. Panera Arts, Commerce & Computer Science College Manavadar)[https://jmpaneracollege.co.in/"] 
+- 🎓 Studying Bachelors's in Computer Application at [J.M. Panera Arts, Commerce & Computer Science College Manavadar](https://jmpaneracollege.co.in/") 
 
 - 📫 How to reach me: <a href="mailto:vipulkindarkhediya1204@gmail.com"> <b>vipulkindarkhediya1204@gmail.com </b></a>
 
