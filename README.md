@@ -12,7 +12,7 @@
   </a>
  <br>
     <img src="https://komarev.com/ghpvc/?username=vckindarkhediya&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/vckindarkhediyar.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/github/followers/vckindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
