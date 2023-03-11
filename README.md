@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
  <br>
-    <img src="https://komarev.com/ghpvc/?username=vckindarkhediya&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/vckindarkhediya.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://komarev.com/ghpvc/?username=vipulkindarkhediya&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/vipulkindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
@@ -57,21 +57,21 @@ You have finally found my Github profile. <br>
 ## 📈 Git Stats ...
 
   <div align="center">
-  <a href="https://github.com/vckindarkhediya">
+  <a href="https://github.com/vipulkindarkhediya">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vckindarkhediya&show_icons=true&locale=en"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vipulkindarkhediya&show_icons=true&locale=en"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vckindarkhediya&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulkindarkhediya&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
 </div>
     <br/> <br/>
    <div align="center">
-  <a href="https://github.com/vckindarkhediya">
+  <a href="https://github.com/vipulkindarkhediya">
   
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vckindarkhediya"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya"/>
   
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=vckindarkhediya&bc=ebebeb&ic=0E8AD9"/> 
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=vipulkindarkhediya&bc=ebebeb&ic=0E8AD9"/> 
 </div>
          <br/> <br/>
      <p align="center">
-    <img width="450" src="https://github-profile-trophy.vercel.app/?username=vckindarkhediya&theme=monokai&row=2&column=3" alt="jstsmaster" />
+    <img width="450" src="https://github-profile-trophy.vercel.app/?username=vipulkindarkhediya&theme=monokai&row=2&column=3" alt="jstsmaster" />
   </p>
