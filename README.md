@@ -15,7 +15,7 @@
 <div>
 <br>
    <a href="https://github.com/vipulkindarkhediya">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+Vipul+Kindarkhediya;Full+Stack+Developer" alt="master" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+VipulKindarkhediya;Laravel+Developer" alt="master" /></a>
 </h1>
 <div align="center">
 
