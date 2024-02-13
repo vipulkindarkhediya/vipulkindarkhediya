@@ -27,7 +27,7 @@ You have finally found my Github profile. <br>
 
 ## 🙋‍ About Me
 
-- This is my portfolio : <code><a href="[vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)">vipulkindarkhediya.github.io</a><code/>
+- This is my portfolio : [vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)
 - This is my resume :
 
 ## 🚀 Languages and Tools ...
