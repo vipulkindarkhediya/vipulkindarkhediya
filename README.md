@@ -25,32 +25,33 @@ You have finally found my Github profile. <br>
 
 </div>
 
-## 🙋‍ About Me 
+## 🙋‍ About Me
 
 - This is my portfolio : [vipulkindarkhediya.github.io]()
-  
-- This is my resume : 
+- This is my resume :
 
-  
 ## 🚀 Languages and Tools ...
+
 ### Frontend
+
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" alt="Javascript" width="50" height="50"></code>
 
 ### Backend
+
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Hypertext Preprocessor" width="50" height="50" /></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Hypertext Preprocessor" width="50" height="50" /></code>
-  
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Hypertext Preprocessor" width="50" height="50" /></code>
+
 ### Databases
+
 <code><a href="https://github.com/vipulkindarkhediya/LearningMysql/tree/mysql"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/></a></code>
 <code><a href="https://github.com/vipulkindarkhediya/LearningMongodb/tree/mongodb"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="50" height="50"/></a></code>
 
 ### DevOps
+
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
-  
-  
+
 ## 📈 Git Stats ...
 
   <div align="center">
