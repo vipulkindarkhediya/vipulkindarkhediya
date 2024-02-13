@@ -1,18 +1,15 @@
-###<h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500px" /> <br>
   <div id="badges">
-    <a href="https://www.instagram.com/vipul_kindarkhediya/">
+    <a href="https://www.instagram.com/vipulkindarkhediya__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
    <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
       <img src="https://img.shields.io/badge/linkedin-3388B5?style=for-the-badge&logo=linkedin&logoColor=yellow"/>
    </a>
-  <a>
-    <img src="https://img.shields.io/badge/youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
  <br>
     <img src="https://komarev.com/ghpvc/?username=vipulkindarkhediya&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/coding4developer.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/github/followers/vipulkindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
 
 <div>
