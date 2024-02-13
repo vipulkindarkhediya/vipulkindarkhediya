@@ -15,7 +15,7 @@
 <div>
 <br>
    <a href="https://github.com/vipulkindarkhediya">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+coding4developer;Full+Stack+Developer" alt="master" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+Vipul+Kindarkhediya;Full+Stack+Developer" alt="master" /></a>
 </h1>
 <div align="center">
 
@@ -26,9 +26,7 @@ You have finally found my Github profile. <br>
 </div>
 
 ## 🙋‍ About Me 
-  
-- This Is My Social Network connect with me: [vipulkindarkhediya](https://linktr.ee/vckindarkhediya)
-  
+
 - This is my portfolio : [vipulkindarkhediya.github.io]()
   
 - This is my resume : 
