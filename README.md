@@ -105,5 +105,5 @@
 <a href="https://github.com/vipulkindarkhediya">  
  <img height="400" width="830" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
 </a>
-<img height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/>
+<img height="400" width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/>
 
