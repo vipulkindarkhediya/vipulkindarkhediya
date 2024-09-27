@@ -88,7 +88,7 @@
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg&logo=linkedin&logoColor=white"/> </td>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Windows</td>
         <td align="center" width=110>Ubuntu</td>
