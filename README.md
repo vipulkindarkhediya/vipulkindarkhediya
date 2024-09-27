@@ -1,7 +1,9 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000px"/> <br>
  <h1 align="center">
   <div id="badges">
-    <a href="https://ahlem-laajili.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
+    <a href="https://vipulkindarkhediya.github.io/">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <a/>
     <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
