@@ -107,3 +107,8 @@
 </a>
 <img height="400" width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/>
 
+## 🏆 My GitHub Profile Trophies
+<a target="_blank" href="https://github.com/vipulkindarkhediya?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vipulkindarkhediya&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
+
+
+### Support me ❤️ by [starring](https://github.com/vipulkindarkhediya?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
