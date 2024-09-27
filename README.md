@@ -3,7 +3,6 @@
   <div id="badges">
     <a href="https://vipulkindarkhediya.github.io/">
       <img src="https://img.shields.io/badge/website-bc4e9c?style=for-the-badge" />
-      <img src="https://github.com/user-attachments/assets/222e79f2-92e8-4988-90e0-068ba952c40c" width="15px" height="15px"/>
     <a/>
     <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
