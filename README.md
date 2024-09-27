@@ -66,7 +66,20 @@
         <td align="center" width=110>jQuery</td>
       </tr>
     </tr>
-  </table> 
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6">Database </th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>MySQL</td>
+      </tr>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Git Stats ...
