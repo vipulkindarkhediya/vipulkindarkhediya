@@ -34,7 +34,7 @@
 - 🎮 Coding by day 🌞, gaming and reading by night 🌙.
 - 😎 Visit my portfolio site: **[vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)**
 
-## 🚀 Languages and Tools ...
+## ⚙️ Skills and Tools
 
 ### Frontend
 
