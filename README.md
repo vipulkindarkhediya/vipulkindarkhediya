@@ -36,24 +36,29 @@
 
 
 ## ⚙️ Skills and Tools
-### Frontend
-
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="css3" alt="css" width="50" height="50"/></code><code><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jquery" alt="jquery" width="50" height="50"/></code>
-
-### Backend
-
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Hypertext Preprocessor" width="50" height="50" /></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Hypertext Preprocessor" width="50" height="50" /></code>
-
-### Databases
-
-<code><a href="https://github.com/vipulkindarkhediya/LearningMysql/tree/mysql"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/></a></code>
-
-### DevOps
-
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Github" width="50" height="50"/></code>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Languages</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Python</td>
+      <td align="center" width=110>Java</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>C++</td>
+    </tr>
+  </table>
+</div>
 
 ## 📈 Git Stats ...
 
