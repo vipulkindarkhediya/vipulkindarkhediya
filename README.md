@@ -88,10 +88,12 @@
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </td>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"/> </td>
+      <td align="center" width=110><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Windows</td>
         <td align="center" width=110>Ubuntu</td>
+        <td align="center" width=110>Script Shell</td>
       </tr>
     </tr>
   </table>
