@@ -30,7 +30,7 @@
 
 ## 🙋‍ About Me
 - 🎓 Alumnus of Computer Science from <a href="https://jmpaneracollege.co.in/"><b>`Arts, Commerce & Computer Science Collage Manavadar`</b></a>
-- 🌱  we are currently solving challenging projects to improve my data structures and coding skills.
+- 🌱  we are currently solving <b>`challenging projects`</b> to improve my <b>`data structures`</b> and <b>`coding`</b> skills.
 - 🎮 Coding by day 🌞, gaming and reading by night 🌙.
 - 😎 Visit my portfolio site: [vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)
 - <img src="https://github.com/user-attachments/assets/222e79f2-92e8-4988-90e0-068ba952c40c" width="50px" height="50px"/>
