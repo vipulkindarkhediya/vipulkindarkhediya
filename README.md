@@ -1,5 +1,4 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000px"/> <br>
-<h1 align="center">
   <div id="badges">
     <a href="https://www.instagram.com/vipulkindarkhediya__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -11,9 +10,9 @@
     <img src="https://komarev.com/ghpvc/?username=vipulkindarkhediya&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/vipulkindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
-
 <div>
 <br>
+<h1 align="center">
    <a href="https://github.com/vipulkindarkhediya">
     <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+VipulKindarkhediya;PHP+Developer" alt="master" /></a>
 </h1>
