@@ -100,6 +100,6 @@
 </div>
 
 ## 📈 GitHub Analytics
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=vipulkindarkhediya&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="525" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya&theme=react&layout=compa" />
+<img width="475" src="https://github-readme-stats.vercel.app/api?username=vipulkindarkhediya&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya&theme=react&layout=compa" />
 
