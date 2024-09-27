@@ -24,7 +24,7 @@
 </div>
 <div align="center">
  <h4>
-  <b>You have finally found my GitHub profile.</b>
+  <b><i>You have finally found my GitHub profile.</i></b>
  </h4>
 </div>
 
