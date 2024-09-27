@@ -12,7 +12,6 @@
   </div>
 <h3 align="center"> 😎 Web Developer | PHP | Laravel 😎 </h3>
 <div>
-<br>
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
