@@ -34,8 +34,8 @@
 - 🎮 Coding by day 🌞, gaming and reading by night 🌙.
 - 😎 Visit my portfolio site: **[vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)**
 
-## ⚙️ Skills and Tools
 
+## ⚙️ Skills and Tools
 ### Frontend
 
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="html5" alt="html" width="50" height="50"/></code>
