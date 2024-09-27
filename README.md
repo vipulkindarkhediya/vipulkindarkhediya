@@ -2,7 +2,7 @@
  <h1 align="center">
   <div id="badges">
     <a href="https://vipulkindarkhediya.github.io/">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+      <img src="https://img.shields.io/badge/website-white?style=for-the-badge&logo=About.me&logoColor=0077B5" />
     <a/>
     <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
