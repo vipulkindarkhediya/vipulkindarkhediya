@@ -1,15 +1,14 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000px"/> <br>
+ <h1 align="center">
   <div id="badges">
-    <a href="https://www.instagram.com/vipulkindarkhediya__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-   <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
-      <img src="https://img.shields.io/badge/linkedin-3388B5?style=for-the-badge&logo=linkedin&logoColor=yellow"/>
-   </a>
- <br>
+    <a href="https://ahlem-laajili.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/>
+    <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=vipulkindarkhediya&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/vipulkindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
+<h3 align="center"> 😎 Web Developer | PHP | Laravel </h3>
 <div>
 <br>
 <h1 align="center">
