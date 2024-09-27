@@ -99,16 +99,10 @@
   </table>
 </div>
 
-## 📈 Git Stats ...
-
-  <div align="center">
-  <a href="https://github.com/vipulkindarkhediya">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vipulkindarkhediya&show_icons=true&locale=en"/>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulkindarkhediya&langs_count=20&show_icons=true&locale=en&layout=compact"/> 
-</div>
-    <br/> <br/>
+## 📈 GitHub Analytics
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
+<img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
+<br/> <br/>
    <div align="center">
   <a href="https://github.com/vipulkindarkhediya">
   
