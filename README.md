@@ -29,7 +29,7 @@
 </div>
 
 ## 🙋‍ About Me
-- 🎓 Alumnus of Computer Science from <b>`[Arts,Commerce & Computer Science Collage Manavadar](https://jmpaneracollege.co.in/)`</b>
+- 🎓 Alumnus of Computer Science from <b>[Arts,Commerce & Computer Science Collage Manavadar](https://jmpaneracollege.co.in/)</b>
 - This is my portfolio : [vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)
 - This is my resume :
 
