@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/> <br>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000px"/> <br>
 <h1 align="center">
   <div id="badges">
     <a href="https://www.instagram.com/vipulkindarkhediya__/">
