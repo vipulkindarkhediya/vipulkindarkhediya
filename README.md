@@ -2,7 +2,7 @@
  <h1 align="center">
   <div id="badges">
     <a href="https://vipulkindarkhediya.github.io/">
-      <img src="https://img.shields.io/badge/website-bc4e9c?style=for-the-badge&logo=About.me&logoColor=white" />
+      <img src="https://img.shields.io/badge/website-bc4e9c?style=for-the-badge" />
     <a/>
     <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,7 +33,7 @@
 - 🌱  we are currently solving <b>`challenging projects`</b> to improve my <b>`data structures`</b> and <b>`coding`</b> skills.
 - 🎮 Coding by day 🌞, gaming and reading by night 🌙.
 - 😎 Visit my portfolio site: [vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)
-- <img src="https://github.com/user-attachments/assets/222e79f2-92e8-4988-90e0-068ba952c40c" width="50px" height="50px"/>
+- 
 This is my portfolio : 
 - This is my resume :
 
