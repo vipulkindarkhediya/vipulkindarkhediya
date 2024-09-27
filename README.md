@@ -44,20 +44,48 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
+      <td align="center" width=110>  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" /> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>jQuery</td>
       <td align="center" width=110>PHP</td>
-      <td align="center" width=110></td>
-      <td align="center" width=110></td>
-      <td align="center" width=110></td>
+      <td align="center" width=110>JavaScript</td>
     </tr>
   </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6">Frameworks & Libraries </th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>React</td>
+        <td align="center" width=110>Node</td>
+        <td align="center" width=110>Spring</td>
+        <td align="center" width=110>Bootstrap</td>
+        <td align="center" width=110>JQuery</td>
+      </tr>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" alt="icon" width="65" height="65"/> </td>
+      <td align="center" width=110> <img width="65" height="65" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>Flask</td>
+        <td align="center" width=110>Angular</td>
+        <td align="center" width=110>Laravel</td>
+        <td align="center" width=110>Symfony</td>
+        <td align="center" width=110>.Net</td>
+      </tr>
+    </tr>
+  </table> 
 </div>
 
 ## 📈 Git Stats ...
