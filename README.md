@@ -102,30 +102,4 @@
 ## 📈 GitHub Analytics
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Vipul&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya&theme=react&layout=compa" />
-<br/> <br/>
-   <div align="center">
-  <a href="https://github.com/vipulkindarkhediya">
-  
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya"/>
-  
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=vipulkindarkhediya&bc=ebebeb&ic=0E8AD9"/> 
-</div>
-         <br/> <br/>
-     <p align="center">
-    <img width="450" src="https://github-profile-trophy.vercel.app/?username=vipulkindarkhediya&theme=monokai&row=2&column=3" alt="vipulkindarkhediya" />
-  </p>
 
-<!--
-**vipulkindarkhediya/vipulkindarkhediya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
