@@ -51,11 +51,11 @@
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Python</td>
-      <td align="center" width=110>Java</td>
-      <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
-      <td align="center" width=110>C++</td>
+      <td align="center" width=110>jQuery</td>
+      <td align="center" width=110>PHP</td>
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
+      <td align="center" width=110></td>
     </tr>
   </table>
 </div>
