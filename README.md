@@ -13,10 +13,15 @@
 <h3 align="center"> 😎 Web Developer | PHP | Laravel 😎 </h3>
 <div>
 <br>
-<h1 align="center">
-   <a href="https://github.com/vipulkindarkhediya">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=firacode&size=36&color=white&center=true&lines=Hi+VipulKindarkhediya;PHP+Developer" alt="master" /></a>
-</h1>
+<div align="center">
+    <p>
+        <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+        <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
+        <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
+        <img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
+        <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Ahlem </i></h4>
+    </p>
+</div>
 <div align="center">
 
 You have finally found my Github profile. <br>
