@@ -103,7 +103,7 @@
 <img width="490" src="https://github-readme-stats.vercel.app/api?username=vipulkindarkhediya&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
 <img width="517" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulkindarkhediya&theme=react&layout=compa" />
 <a href="https://github.com/vipulkindarkhediya">  
- <img height="490" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
+ <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulkindarkhediya&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
 </a>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlem-phantom&theme=react"/>
+<img width="517" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipulkindarkhediya&theme=react"/>
 
