@@ -70,13 +70,28 @@
   <table>
     <thead>
       <tr>
-        <th colspan="6">Database </th>
+        <th colspan="6">Database Management</th>
       </tr>
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>MySQL</td>
+      </tr>
+    </tr>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6">Operating Systems</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>Windows</td>
+        <td align="center" width=110>Ubuntu</td>
       </tr>
     </tr>
   </table>
