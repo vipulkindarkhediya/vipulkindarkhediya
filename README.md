@@ -23,11 +23,9 @@
     </p>
 </div>
 <div align="center">
-
-You have finally found my Github profile. <br>
-
-<i>I like coding!</i> 😊
-
+ <h4>
+  <b>You have finally found my GitHub profile.</b>
+ </h4>
 </div>
 
 ## 🙋‍ About Me
