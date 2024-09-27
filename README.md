@@ -24,12 +24,12 @@
 </div>
 <div align="center">
  <h4>
-  <b><i>You have finally found my GitHub profile.</i></b>
+  <a href=""><b><i>You have finally found my GitHub profile.</i></b></a>
  </h4>
 </div>
 
 ## 🙋‍ About Me
-
+- 🎓 Alumnus of Computer Science from <b>`Arts,Commerce & Computer Science Collage`</b>
 - This is my portfolio : [vipulkindarkhediya.github.io](https://vipulkindarkhediya.github.io/)
 - This is my resume :
 
