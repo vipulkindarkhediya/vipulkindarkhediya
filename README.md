@@ -2,6 +2,7 @@
  <h1 align="center">
   <div id="badges">
     <a href="https://vipulkindarkhediya.github.io/">
+      <img src="https://img.shields.io/twitter/Website/vipulkindarkhediya.github.io?logo=twitter&style=for-the-badge" alt="chandrikadeb7" />
       <img src="https://img.shields.io/badge/website-bc4e9c?style=for-the-badge" />
     <a/>
     <a href="https://www.linkedin.com/in/vipulkindarkhediya/">
