@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=vipulkindarkhediya&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/vipulkindarkhediya.svg?style=for-the-badge&logo=appveyor">
   </div>
-<h3 align="center"> 😎 Web Developer | PHP | Laravel 😎 </h3>
+<h3 align="center"> 😎 Web Developer | PHP & Laravel | 😎 </h3>
 <div>
 <div align="center">
     <p>
