@@ -76,6 +76,10 @@
       <tr align="center"> 
         <td align="center" width=110>MySQL</td>
       </tr>
+      <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>MySQL</td>
+      </tr>
     </tr>
   </table>
   <table>
