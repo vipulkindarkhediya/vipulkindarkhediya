@@ -14,7 +14,6 @@
 <div>
 <div align="center">
     <p>
-        <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
         <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
         <img src="https://img.shields.io/badge/Programming-Php-blue" />
         <img src="https://img.shields.io/badge/Language-English%2C%20Hindi%2C%20Gujarati-blue" />
